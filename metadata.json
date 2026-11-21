@@ -1,0 +1,6 @@
+{
+  "name": "Ouroboros Abyss",
+  "description": "Top-down 2D tile-based dark dungeon RPG where you hatch from an egg, evolve into a cosmic wyrm, tether chained beasts, explore 13 procedural cavern depths with dynamic lighting, retro gamepad controls, synthesized dubstep, and voice narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
